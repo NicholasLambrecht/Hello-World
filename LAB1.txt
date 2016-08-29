@@ -2,3 +2,6 @@ MY NAME: 			Nick Lambrecht
 STUDENT ID: 			23130801
 E-MAIL:				nlambrecht@mail.bradley.edu
 WHAT I WANT TO LEARN: 		Everything.
+
+EDIT:
+HOW COMFORTABLE I AM WITH C++:	I am a beginner. I know quite a bit, but not enough to say I'm confident.
